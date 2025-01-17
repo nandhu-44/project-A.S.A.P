@@ -1,5 +1,0 @@
-feature
-feature 2
-feature-new
-feature-new 2
-hello
